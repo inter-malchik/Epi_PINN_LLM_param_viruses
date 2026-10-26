@@ -2,7 +2,7 @@
 
 **Interpretable Expert-Informed Epidemic Forecasting via Hybrid Mechanistic and LLM-Based Modeling**
 
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.12.15](https://img.shields.io/badge/python-3.12.15-blue.svg)](https://www.python.org/downloads/)
 
 Short description:  
 A human-in-the-loop framework that integrates expert knowledge into epidemic forecasting by adjusting epidemiological parameters (β, γ, μ) using a multi-agent LLM system. Unlike black-box or loss-modifying approaches, this method provides interpretable, verifiable forecast adjustments.
@@ -37,6 +37,8 @@ git clone https://github.com/vnlenenko/Epi_PINN_LLM_param.git
 cd Epi_PINN_LLM_param
 pip install -r requirements.txt
 ```
+
+The experiments were run with Python 3.12.15, PyTorch 2.14.1 and SciPy 1.18.1. These versions are pinned in `requirements.txt`.
 
 Create a `.env` file for your LLM provider settings (if needed).
 

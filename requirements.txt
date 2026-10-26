@@ -6,11 +6,11 @@
 # Core scientific computing
 numpy==2.2.4
 pandas==2.2.3
-scipy==1.15.3
+scipy==1.18.1
 
 # Deep learning & PINNs
-torch==2.8.0+cu128
-torchvision==0.23.0+cu128
+torch==2.14.1
+torchvision==0.29.1
 
 # LLM & LangChain ecosystem
 langchain-core==1.2.22

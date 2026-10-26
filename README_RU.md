@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Status: Experimental](https://img.shields.io/badge/Status-Experimental-yellow.svg)]()
-[![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![Python 3.12.15](https://img.shields.io/badge/Python-3.12.15-blue.svg)](https://www.python.org/)
 [![Framework: PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
 
