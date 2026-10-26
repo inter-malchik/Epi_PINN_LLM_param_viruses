@@ -1,3 +1,8 @@
+# Versions used for the experiments:
+#   Python 3.12.15
+#   PyTorch 2.14.1
+#   SciPy 1.18.1
+
 # Core scientific computing
 numpy==2.2.4
 pandas==2.2.3
